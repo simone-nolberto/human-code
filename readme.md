@@ -6,6 +6,7 @@ Comprare qualcosa su amazon Domani è il compleanno di Silvia e non le ho ancora
 
 Domani è il compleanno di silvia, dobbiamo comprarle un regalo, siamo alla scrivania
 
+# Steps
 
 - Step-1: Andare su amazon
     - SE il computer è spento
