@@ -33,3 +33,9 @@ Domani è il compleanno di silvia, dobbiamo comprarle un regalo, siamo alla scri
         - SE scorrendo troviamo il classico selezionare
 
 - Step-5: comprare il regalo
+    - aggiungere il prodotto al carrello
+    - inserire indirizzo di spediziona
+    - inserire dati della carta
+    - confermare
+    - chiudere browser
+    - spegnere pc
